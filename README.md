@@ -12,7 +12,7 @@ cargo run
 
 ## Base fee
 
-The `base fee` for a transaction depends on the number of signature used. You can find a single signature transaction in [simple.rs](./src/base_fee/simple.rs), and 2 signatures transactions in [multisig.rs](./src/base_fee/multisig.rs).
+The `base fee` for a transaction depends on the number of signature used. You can find a single signature transaction in [simple.rs](./src/base_fee/simple.rs), and transactions with 2 signatures in [multisig.rs](./src/base_fee/multisig.rs).
 
 ## Priority fee
 
